@@ -77,15 +77,15 @@ h1 span:after {
 }
 
 span.one:after {
-    content: "Will you";
+    content: "¿Quieres ser";
 }
 
 span.two:after {
-    content: "bee my";
+    content: "mi San";
 }
 
 span.three:after {
-    content: "valentine?";
+    content: "Valentin?";
 }
 
 @media screen and (min-width: 880px) {
