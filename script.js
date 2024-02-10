@@ -35,9 +35,9 @@
     var heartDiv = document.createElement("div");
     heartDiv.classList.add("heart");
     heartDiv.style = `animation: spin ${randomInt(14) + 6}s ease-in infinite;
-                        top: ${randomInt(40)}vh;
-                       left: ${randomInt(100)}vw;
-                  font-size: ${randomInt(40) + 20}px;
+                        top: ${randomInt(20)}vh;
+                       left: ${randomInt(80)}vw;
+                  font-size: ${randomInt(20) + 10}px;
                       color: ${["#d00", "#e66", "#fcc"][randomInt(3)]};`;
     heartDiv.textContent = ["\u2661", "\u2665"][randomInt(2)];
     document.getElementById("falling-hearts").appendChild(heartDiv);
