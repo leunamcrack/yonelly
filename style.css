@@ -325,8 +325,8 @@ span.three:after {
 }
 
 .shadow {
-    height: 45px;
-    width: 170px;
+    height: 30px;
+    width: 120px;
     border-radius: 50%;
     background-color: #88badd;
     -webkit-animation: shadow 2s ease-in-out infinite;
