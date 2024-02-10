@@ -60,11 +60,11 @@ h1 span {
 h1 span,
 h1 span:after {
     font-weight: 600;
-    color: #e17171;
+    color: #ffc0cb;
     white-space: nowrap;
     display: inline-block;
     position: relative;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.1em;
 }
 
 h1 span:after {
